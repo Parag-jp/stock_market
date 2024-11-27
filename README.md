@@ -1,7 +1,7 @@
 # stock_market_app
 
 # Overview
-An interactive web application for visualizing stock market data using candlestick charts. This tool offers an intuitive and efficient way to analyze historical trends and detailed market data.
+This project provides an intuitive candlestick chart for analyzing stock market trends. An interactive web application for visualizing stock market data using candlestick charts. This tool offers an intuitive and efficient way to analyze historical trends and detailed market data. This tool aims to make stock market data visualization accessible for both novice and experienced users.
 
 
 ## Getting Started
