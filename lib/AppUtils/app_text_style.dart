@@ -2,13 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_zerodha_clone_app/AppUtils/app_font_size.dart';
 import 'package:flutter_zerodha_clone_app/AppUtils/app_font_weight.dart';
 
-/*
-Title: AppTextStyle Used through App
-Purpose:AppTextStyle Used through App
-Created On:24/11/2024
-Edited On:24/11/2024
-Author: Kalpesh Khandla
-*/
 
 class AppTextStyle {
   // 24 Font Size

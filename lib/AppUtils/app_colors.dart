@@ -1,13 +1,5 @@
 import 'package:flutter/material.dart';
 
-/*
-Title: AppColors Used through App
-Purpose:AppColors Used through App
-Created On: 24/11/2024
-Edited On:24/11/2024
-Author: Kalpesh Khandla
-*/
-
 class AppColors {
   // Frequntly Used Common Colors
   static const Color whiteColor = Colors.white;

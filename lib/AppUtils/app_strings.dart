@@ -1,12 +1,5 @@
 import 'package:flutter/material.dart';
 
-/*
-Title:AppStrings
-Purpose:AppStrings
-Created On:24/11/2024
-Edited On:24/11/2024
-Author: Kalpesh Khandla
-*/
 
 class AppStrings {
   // Common Used AppStrings
